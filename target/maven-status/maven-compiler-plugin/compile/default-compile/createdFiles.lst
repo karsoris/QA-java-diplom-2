@@ -1,0 +1,14 @@
+Api\Model\Order.class
+Api\Model\Ingredient.class
+Api\Client\UserClient.class
+Api\Model\UserToken.class
+Api\Model\OrderData.class
+Api\Client\OrderClient.class
+Api\Model\UserCredentials.class
+Api\Model\IngredientData.class
+Api\Client\BaseClient.class
+Api\Model\NegativeUserOrders.class
+Api\Model\User.class
+Api\Model\OrdersData.class
+Api\Model\UserInformation.class
+Api\Model\PositiveUserOrders.class
